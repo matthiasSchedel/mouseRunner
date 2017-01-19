@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MausController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MausController.cs" Line="17" Column="15" />
+      <File FileName="Assets/Scripts/Maus.cs" Line="118" Column="23" />
+      <File FileName="Assets/Scripts/MausSpawner.cs" Line="24" Column="46" />
+      <File FileName="Assets/Scripts/MausUI.cs" Line="26" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
